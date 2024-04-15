@@ -1,6 +1,4 @@
 pyvista
-shutil
-math
 numpy
 pandas
 scipy
